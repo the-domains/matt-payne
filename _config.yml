@@ -1,7 +1,7 @@
 name: Matt Payne
 favicon: null
-layout_spectrum: 0.5010460237972438
-typography_spectrum: 0.5187529711984098
+layout_spectrum: 0.4866
+typography_spectrum: 0.50972
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#d4dbe1'
+    - '#a9aaae'
+    - '#26252a'
+    - '#5c6063'
   brandStrength: 0.03538714814931154
   lightness: 0.7371625662781298
   saturation: 0.990184381371364
